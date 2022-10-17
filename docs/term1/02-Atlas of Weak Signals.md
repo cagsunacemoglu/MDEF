@@ -21,24 +21,36 @@ With that said, it should not be a surprise that the cards “Mindful Technology
 
 The intersection of this common ground with other cards create the following opportunity spaces that I can possibly work on in my projects:
 
-### Can we reimagine social media to create physical connections that get us out of monetised digital spaces
+##### Can we reimagine social media to create physical connections that get us out of monetised digital spaces?
+
+##### Can revamping an object with biomaterials, great design and technology induce behaviour change in a positive way?
+
+##### Can we make connect universal basic wage possible by connecting it to personal carbon emissions?
+
+##### How can technology display a kind presence in our cities? Can tech be used for an alternative way of sharing beyond economic gains?
+
+##### Can we imagine a new way of travelling in which our trips contribute to local progress towards a more regenerative and sustainable future?
+
+##### Can technology help create empathy for non-humans?
+
+##### How much tech does it take to be self-sustaining and living off the grid?
 
 ![](../images/aows/1.png)
 
-### Can revamping an object with biomaterials, great design and technology induce behaviour change in a positive way?
+
 ![](../images/aows/2.png)
 
-### Can we make connect universal basic wage possible by connecting it to personal carbon emissions?
+
 ![](../images/aows/3.png)
 
-### How can technology display a kind presence in our cities? Can tech be used for an alternative way of sharing beyond economic gains?
+
 ![](../images/aows/4.png)
 
-### Can we imagine a new way of travelling in which our trips contribute to local progress towards a more regenerative and sustainable future? 
+
 ![](../images/aows/5.png)
 
-### Can technology help create empathy for non-humans?
+
 ![](../images/aows/6.png)
 
-### How much tech does it take to be self-sustaining and living off the grid?
+
 ![](../images/aows/7.png)
