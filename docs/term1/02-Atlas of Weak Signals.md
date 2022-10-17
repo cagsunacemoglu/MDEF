@@ -5,6 +5,40 @@ hide:
 
 # Atlas of Weak Signals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](../images/aows/overview.png)
 
-![](../images/MT01/scorpio_blow.jpg)
+Technology has been central in my life: It shaped me as a child, helped me get through my adolescence and shaped my an identity as I moved to adulthood. As surfaced in my “fight” poster; I’ve been bitterly observing how technology transformed to being perceived as a threat to the health of individuals and societies.
+
+The main question I’d like to explore - as described in my fight- is: How can we make tech a source of optimism, kindness and progress for the well-being of all species? To that end, I chose some weak signals and trigger cards that I’m willing to explore, and I’ve ideated some interventions as initial ideas to give some direction to this broad field I’m inclined to work in.
+
+My idea is to work on some of the following opportunity areas -possibly by drifting serially- to explore if/how tech can help transform the status quo in these spaces and create positive impact that would not be possible otherwise. Some of these interventions depend less on tech than others, which is okay. Technology is such a broad term that one way or another will play a role in design, creation or distribution of these ideas. 
+
+While I’ve placed technology in the centre, I must mention that the main goal of these projects in not “technology for technology’s sake”. My goal is to work on projects that create well-being and harmony for people and the rest of nature: Mindful, ethical and kindly designed technology is only the medium through which I intend to work towards that goal.
+
+With that said, it should not be a surprise that the cards “Mindful Technology”, “Kind Tech’ and “Technology for Equality” form the common ground for my design space. 
+
+![](../images/aows/main.png)
+
+The intersection of this common ground with other cards create the following opportunity spaces that I can possibly work on in my projects:
+
+### Can we reimagine social media to create physical connections that get us out of monetised digital spaces
+
+![](../images/aows/1.png)
+
+### Can revamping an object with biomaterials, great design and technology induce behaviour change in a positive way?
+![](../images/aows/2.png)
+
+### Can we make connect universal basic wage possible by connecting it to personal carbon emissions?
+![](../images/aows/3.png)
+
+### How can technology display a kind presence in our cities? Can tech be used for an alternative way of sharing beyond economic gains?
+![](../images/aows/4.png)
+
+### Can we imagine a new way of travelling in which our trips contribute to local progress towards a more regenerative and sustainable future? 
+![](../images/aows/5.png)
+
+### Can technology help create empathy for non-humans?
+![](../images/aows/6.png)
+
+### How much tech does it take to be self-sustaining and living off the grid?
+![](../images/aows/7.png)
