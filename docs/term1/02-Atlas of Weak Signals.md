@@ -49,12 +49,12 @@ The intersection of this common ground with other cards create the following opp
 </ul>
 
 
-<img src="/images/aows/1.jpg" id="img1">
-<img src="/images/aows/2.png" id="img2">
-<img src="/images/aows/3.png" id="img3">
-<img src="/images/aows/4.png" id="img4">
-<img src="/images/aows/5.png" id="img5">
-<img src="/images/aows/6.png" id="img6">
-<img src="/images/aows/7.png" id="img7">
+<img src="/MDEF/images/aows/1.jpg" id="img1">
+<img src="/MDEF/images/aows/2.png" id="img2">
+<img src="/MDEF/images/aows/3.png" id="img3">
+<img src="/MDEF/images/aows/4.png" id="img4">
+<img src="/MDEF/images/aows/5.png" id="img5">
+<img src="/MDEF/images/aows/6.png" id="img6">
+<img src="/MDEF/images/aows/7.png" id="img7">
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPOjTQbE=/?moveToViewport=-756,-833,1355,902&embedId=134823342494" frameborder="0" scrolling="no" allowfullscreen></iframe>
