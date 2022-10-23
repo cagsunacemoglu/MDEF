@@ -1,5 +1,5 @@
 # About
 
-![](../images/ch.jpeg)
+![](/MDEF/images/ch.jpeg)
 
 

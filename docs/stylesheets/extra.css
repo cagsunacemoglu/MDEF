@@ -10,7 +10,9 @@
     --md-typeset-a-color: rgb(12, 135, 240);
 
 }
-
+.md-header-nav__source {
+    visibility: hidden;
+}
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
@@ -36,6 +38,12 @@
     font-weight: 500;
 }
 
+.md-header {
+    background-color: #018786;
+}
+.md-typeset {
+    font-size: .65rem;
+}
 .mdc-typography--body2 {
     font-weight: 300;
     font-size: 14px;

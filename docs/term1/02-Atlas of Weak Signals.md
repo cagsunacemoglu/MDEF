@@ -23,38 +23,47 @@ The intersection of this common ground with other cards create the following opp
 
 <ul>
     <li>
-        <a href="#img1">Can we reimagine social media to create physical connections that get us out of monetised digital spaces?</a>
+        <a href="#img1">1 - Can we reimagine social media to create physical connections that get us out of monetised digital spaces?</a>
     </li>
     <li>
-        <a href="#img2">Can revamping an object with biomaterials, great design and technology induce behaviour change in a positive way?</a>
+        <a href="#img2">2 - Can revamping an object with biomaterials, great design and technology induce behaviour change in a positive way?</a>
     </li>
     <li>
-        <a href="#img3">Can we make connect universal basic wage possible by connecting it to personal carbon emissions?</a>
+        <a href="#img3">3 - Can we make connect universal basic wage possible by connecting it to personal carbon emissions?</a>
     </li>
     <li>
-        <a href="#img4">How can technology display a kind presence in our cities? Can tech be used for an alternative way of sharing beyond economic gains?</a>
+        <a href="#img4">4 - How can technology display a kind presence in our cities? Can tech be used for an alternative way of sharing beyond economic gains?</a>
     </li>
     <li>
-        <a href="#img1">Can we reimagine social media to create physical connections that get us out of monetised digital spaces?</a>
+        <a href="#img5">5 - Can we imagine a new way of travelling in which our trips contribute to local progress towards a more regenerative and sustainable future?</a>
     </li>
     <li>
-        <a href="#img1">Can we imagine a new way of travelling in which our trips contribute to local progress towards a more regenerative and sustainable future?</a>
+        <a href="#img6">6 - Can technology help create empathy for non-humans? </a>
     </li>
     <li>
-        <a href="#img1">Can technology help create empathy for non-humans? </a>
-    </li>
-    <li>
-        <a href="#img1">How much tech does it take to be self-sustaining and living off the grid?</a>
+        <a href="#img7">7 - How much tech does it take to be self-sustaining and living off the grid?</a>
     </li>
 </ul>
 
-
+## Can we reimagine social media to create physical connections that get us out of monetised digital spaces?
 <img src="/MDEF/images/aows/1.jpg" id="img1">
+
+## Can revamping an object with biomaterials, great design and technology induce behaviour change in a positive way?
 <img src="/MDEF/images/aows/2.png" id="img2">
+
+## Can we make connect universal basic wage possible by connecting it to personal carbon emissions?
 <img src="/MDEF/images/aows/3.png" id="img3">
+
+## How can technology display a kind presence in our cities? Can tech be used for an alternative way of sharing beyond economic gains?
 <img src="/MDEF/images/aows/4.png" id="img4">
+
+## Can we imagine a new way of travelling in which our trips contribute to local progress towards a more regenerative and sustainable future?
 <img src="/MDEF/images/aows/5.png" id="img5">
+
+## Can technology help create empathy for non-humans?
 <img src="/MDEF/images/aows/6.png" id="img6">
+
+## How much tech does it take to be self-sustaining and living off the grid?
 <img src="/MDEF/images/aows/7.png" id="img7">
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPOjTQbE=/?moveToViewport=-756,-833,1355,902&embedId=134823342494" frameborder="0" scrolling="no" allowfullscreen></iframe>
