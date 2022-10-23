@@ -1,6 +1,6 @@
 # Design Studio - Roles of Prototyping 
 
-### Assignment Part 1: Which roles of prototyping ones have you used and for what purposes? Which ones you haven’t use and how do you think they could be interesting for you?
+### Assignment 1a: Which roles of prototyping ones have you used and for what purposes? Which ones you haven’t use and how do you think they could be interesting for you?
 
 # Role 1 - Prototype as experimental component
 
@@ -30,7 +30,7 @@ The result of that inquiry wasn't as we hoped for: Conditions underground were s
 # Role 3 - Prototype as research archetype.
 
 > Research archetypes are physical embodiments of concepts, understandings or design spaces that can be argued to constitute contributions to the discipline. The role the prototype plays in this contribution is usually exemplary.
-
+> 
 While I’m not sure, if this falls into this category, the example that comes to my mind is something we do in many of our projects in service design.
 
 In those projects, we are usually commissioned to design and deliver a usable, tangible end product, which could be the design of a digital product or the blueprint of how a service will function. 
@@ -47,7 +47,7 @@ An example of this is an “idealistic customer journey map” where the experie
 Role 4 - Prototyping as a vehicle for inquiry.
 
 > There are a number of ways that the process of making an artefact is instrumental in doing design research. In these cases, the process of prototyping becomes a means of inquiry, akin to a research method.The process is documented, analysed, critically assessed and written up, and the research contribution is tied not to the artefact itself as much as to how the artefact was crafted.
-
+> 
 This role of prototyping is something we use a lot in participatory workshops. Sometimes we do it using Legos; where we ask participants to build something together, and in the activity, they learn so much about the design challenge itself, they find themselves discussing important aspects of the project or they come up with new ideas by being inspired by what comes across in the process.
 
 Another way we do this is by asking participants to role-play a certain service (which is what we are designing in this case). We ask one of the participants to be a customer, whereas others may be working for the service provider company. By improvising their role, they start to expose key aspects of the service: the rest of the participants observe them and take notes that could give direction to the rest of the design process.
@@ -55,7 +55,7 @@ Another way we do this is by asking participants to role-play a certain service 
 ![](/MDEF/images/ds-rop/lego2.png)
 
 
-### **Assignment Part 2:** Select the main roles of prototyping, combinations of them, and other design activities that you want to use.
+### **Assignment 1b:** Select the main roles of prototyping, combinations of them, and other design activities that you want to use.
 
 While the prototype I’d decide to employ will depend on the actual project and the problem I’m trying to solve, I find role 4 very interesting especially, due to the first-person perspective of the master's program. 
 I have tried role 4 in co-creation settings and this time I’m interested in using it for a first-person-driven inquiry: to study myself as I go through the design and prototyping process.
