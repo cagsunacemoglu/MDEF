@@ -45,25 +45,25 @@ The intersection of this common ground with other cards create the following opp
     </li>
 </ul>
 
-## Can we reimagine social media to create physical connections that get us out of monetised digital spaces?
-<img src="/MDEF/images/aows/1.jpg" id="img1">
+<h2 id="img1">1 - Can we reimagine social media to create physical connections that rescues us out of monetised digital spaces? </h2>
+<img src="/MDEF/images/aows/1.jpg">
 
-## Can revamping an object with biomaterials, great design and technology induce behaviour change in a positive way?
+<h2 id="img2">2 - Can revamping an object with biomaterials, great design and technology induce behaviour change in a positive way?</h2>
 <img src="/MDEF/images/aows/2.png" id="img2">
 
-## Can we make connect universal basic wage possible by connecting it to personal carbon emissions?
+<h2 id="img3">3 - Can we make connect universal basic wage possible by connecting it to personal carbon emissions?</h2>
 <img src="/MDEF/images/aows/3.png" id="img3">
 
-## How can technology display a kind presence in our cities? Can tech be used for an alternative way of sharing beyond economic gains?
+<h2 id="img4">4 - How can technology display a kind presence in our cities? Can tech be used for an alternative way of sharing beyond economic gains?</h2>
 <img src="/MDEF/images/aows/4.png" id="img4">
 
-## Can we imagine a new way of travelling in which our trips contribute to local progress towards a more regenerative and sustainable future?
+<h2 id="img5">5 - Can we imagine a new way of travelling in which our trips contribute to local progress towards a more regenerative and sustainable future?</h2>
 <img src="/MDEF/images/aows/5.png" id="img5">
 
-## Can technology help create empathy for non-humans?
+<h2 id="img6">6 - Can technology help create empathy for non-humans?</h2>
 <img src="/MDEF/images/aows/6.png" id="img6">
 
-## How much tech does it take to be self-sustaining and living off the grid?
+<h2 id="img7">7 - How much tech does it take to be self-sustaining and living off the grid?</h2>
 <img src="/MDEF/images/aows/7.png" id="img7">
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPOjTQbE=/?moveToViewport=-756,-833,1355,902&embedId=134823342494" frameborder="0" scrolling="no" allowfullscreen></iframe>
