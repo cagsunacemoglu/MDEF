@@ -8,9 +8,8 @@
 > 
 In my profession, we often employ these types of prototypes in the field of “Business Design”. When we come up with a new business idea, we first extract the assumptions we're making by asking ourselves the question: “What needs to be true for our idea to work?”
 Once we have the most important assumptions identified and framed as hypothesis, we try to test them as quickly and cheaply as possible. And we employ prototypes for that. One type of prototype we use is a landing page: A webpage created just to present the idea and see if it resonates by measuring how people respond to it. 
-![](/MDEF/images/ds-rop/landing.png)
 
-We also do usability tests: We create a realistic prototype and observe how users interact with it to find flaws in the design.   
+I also did some usability tests: To do that, we create a realistic prototype and observe how users interact with it. We aim to find flaws in the design or interesting findings based on how the user interacts with the prototype.
 ![](/MDEF/images/ds-rop/usability.png)
 
 
@@ -61,6 +60,9 @@ While the prototype I’d decide to employ will depend on the actual project and
 I have tried role 4 in co-creation settings and this time I’m interested in using it for a first-person-driven inquiry: to study myself as I go through the design and prototyping process.
 
 I have some other interventions in mind that require Role 2 and Role 1 prototyping, but I’d like to keep it open for any new ideas to emerge and not make decisions too soon on which methods to use.
+
+
+
 
 #### **Assignment 2:** Map your Design Toolbox
 
