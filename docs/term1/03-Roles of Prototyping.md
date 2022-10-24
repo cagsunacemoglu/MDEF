@@ -5,7 +5,7 @@
 ## Role 1 - Prototype as experimental component
 
 > The prototype itself is the object about which design knowledge is sought through the experimental setup.
-> 
+
 In my profession, we often employ these types of prototypes in the field of “Business Design”. When we come up with a new business idea, we first extract the assumptions we're making by asking ourselves the question: “What needs to be true for our idea to work?”
 Once we have the most important assumptions identified and framed as hypothesis, we try to test them as quickly and cheaply as possible. And we employ prototypes for that. One type of prototype we use is a landing page: A webpage created just to present the idea and see if it resonates by measuring how people respond to it. 
 
@@ -18,7 +18,7 @@ I also did some usability tests: To do that, we create a realistic prototype and
 ## Role 2 - Prototype as means of inquiry. 
 
 > Prototypes have been developed and deployed as instruments of inquiry, in much the way that scientists use specifically designed instruments to collect, record and measure phenomena.
-> 
+
 In one instance, I was working on a project where the goal was to develop a device that would be sent to examine a drilled hole under the earth in order to map the trajectory of the hole. To first test the environmental conditions, we designed a prototype that would go under such a hole, and just experience the conditions there so that we could understand our design constraints for the actual device.
 
 The result of that inquiry wasn't as we hoped for: Conditions underground were so tough that our “test the water” prototypes couldn't return from the hole having captured the data we needed, due to not being able to withhold the shocks and physical conditions of our target environment.
@@ -29,7 +29,7 @@ The result of that inquiry wasn't as we hoped for: Conditions underground were s
 ## Role 3 - Prototype as research archetype.
 
 > Research archetypes are physical embodiments of concepts, understandings or design spaces that can be argued to constitute contributions to the discipline. The role the prototype plays in this contribution is usually exemplary.
-> 
+
 While I’m not sure, if this falls into this category, the example that comes to my mind is something we do in many of our projects in service design.
 
 In those projects, we are usually commissioned to design and deliver a usable, tangible end product, which could be the design of a digital product or the blueprint of how a service will function. 
@@ -46,12 +46,12 @@ An example of this is an “idealistic customer journey map” where the experie
 ## Role 4 - Prototyping as a vehicle for inquiry.
 
 > There are a number of ways that the process of making an artefact is instrumental in doing design research. In these cases, the process of prototyping becomes a means of inquiry, akin to a research method.The process is documented, analysed, critically assessed and written up, and the research contribution is tied not to the artefact itself as much as to how the artefact was crafted.
-> 
+
 This role of prototyping is something we use a lot in participatory workshops. Sometimes we do it using Legos; where we ask participants to build something together, and in the activity, they learn so much about the design challenge itself, they find themselves discussing important aspects of the project or they come up with new ideas by being inspired by what comes across in the process.
 
 Another way we do this is by asking participants to role-play a certain service (which is what we are designing in this case). We ask one of the participants to be a customer, whereas others may be working for the service provider company. By improvising their role, they start to expose key aspects of the service: the rest of the participants observe them and take notes that could give direction to the rest of the design process.
 
-![](/MDEF/images/ds-rop/lego2.png)
+![](/MDEF/images/ds-rop/lego2.jpeg)
 
 
 #### **Assignment 1b:** Select the main roles of prototyping, combinations of them, and other design activities that you want to use.
