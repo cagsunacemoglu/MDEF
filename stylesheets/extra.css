@@ -49,3 +49,13 @@
     font-weight: 300;
     font-size: 14px;
 }
+.md-main__inner {
+    margin-top: 0rem;
+}
+.md-sidebar {
+    background-color: #e6e6e6;
+}
+.md-nav {
+    font-size: .6rem;
+    line-height: 1.2;
+}
