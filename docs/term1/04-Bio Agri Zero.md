@@ -30,8 +30,16 @@ Tahoon, M.A.; Siddeeg, S.M.; Salem Alsaiari, N.; Mnif, W.; Ben Rebah, F. Effecti
 Filiciotto L, Rothenberg G. Biodegradable Plastics: Standards, Policies, and Impacts. ChemSusChem. 2021 Jan 7;14(1):56-72. doi: 10.1002/cssc.202002044. Epub 2020 Oct 28. PMID: 33112051; PMCID: PMC7821290.
 
 ![](/MDEF/images/bio/Plastic-Cycle.png)
+
 ---
 
-![](/MDEF/images/bio/DNA.jgg)
-*The code of life, sitting on a desk.*
+![](/MDEF/images/bio/DNA.jpg)
+*The code of life, sitting on a desk*
 
+![](/MDEF/images/bio/upf.gif)
+
+*Visiting the labs by the beach*
+
+![](/MDEF/images/bio/upf-2.jpg)
+
+*Visiting the labs by the beach*
