@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cagsunacemoglu.github.io/MDEF/</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cagsunacemoglu.github.io/MDEF/about/me/</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cagsunacemoglu.github.io/MDEF/project/project/</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cagsunacemoglu.github.io/MDEF/term1/01-Bootcamp/</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cagsunacemoglu.github.io/MDEF/term1/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cagsunacemoglu.github.io/MDEF/term1/03-Roles%20of%20Prototyping/</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-11-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cagsunacemoglu.github.io/MDEF/term1/04-Bio%20Agri%20Zero/</loc>
+         <lastmod>2022-11-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
