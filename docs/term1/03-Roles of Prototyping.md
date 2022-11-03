@@ -23,7 +23,7 @@ In one instance, I was working on a project where the goal was to develop a devi
 
 The result of that inquiry wasn't as we hoped for: Conditions underground were so tough that our “test the water” prototypes couldn't return from the hole having captured the data we needed, due to not being able to withhold the shocks and physical conditions of our target environment.
 
-![](/MDEF/images/ds-rop/dbc.png)
+![](/MDEF/images/ds-rop/dbc2.jpg)
 
 
 ## Role 3 - Prototype as research archetype.

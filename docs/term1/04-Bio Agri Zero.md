@@ -38,8 +38,6 @@ Filiciotto L, Rothenberg G. Biodegradable Plastics: Standards, Policies, and Imp
 
 ![](/MDEF/images/bio/upf.gif)
 
-*Visiting the labs by the beach*
-
 ![](/MDEF/images/bio/upf-2.jpg)
 
 *Visiting the labs by the beach*
