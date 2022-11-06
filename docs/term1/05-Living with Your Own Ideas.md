@@ -14,11 +14,11 @@
 
 In the initial assignment to make a companion, I made a machine that could help me control time, with the hope that it would give me a relief and let go of FOMO (fear of missing out). But it didn’t. I started thinking too much about time, and when to use  my companion. The moments when used it started to become too precious, when it wasn’t.
 
-![](/MDEF/images/1pp/timeplug.png)
+![](/MDEF/images/1pp/timeplug2.png)
 
 Then in the second one part of the seminar, where we needed to come up with a personal intervention, I did an uto-ethnographic data collection on how I use technology. Technology is an anchor topic for what I'd like to work on in this master, so I wanted to study my relationship with it before coming up for interventions for others using it. I logged how I feel using technology while working, then while being outside in the city and finally decided to take it to the extreme and try cutting out all distractions and digital addictions.
 
-![](/MDEF/images/1pp/1pp.gif)
+![](/MDEF/images/1pp/1pp3.gif)
 
 **2- What happens when you involve yourself?**
 
@@ -35,7 +35,7 @@ My experience with my companion was so different to how I assumed it to be, so I
 **4 & 5 - Did anything change about your way of working?** **What does it mean for your future work?**
 In my profession, we tend to focus on designing for others, and to do that responsibly, I work hard to take myself out of the equation when I design. As if our personal involvement is something to be ashamed of, something unprofessional… During the seminar, I recognised that taking yourself completely out of the equation is not possible; the designer is always there with their values, their way of seeing life, and how they understand the problem at hand.
 
-The seminar gave me the courage to acknowledge this fact, and make use of it rather than trying to avoid it. I’ll try 1PP prototyping and intervening where possible in my professional work; actually I recognised in past projects, I did a better job as a designer when I’m personally more involved with the problem we were designing for. 
+The seminar gave me the courage to acknowledge this fact, and make use of it rather than trying to avoid it. As a matter of fact, I think in my past projects, I did a better job as a designer when I’m personally more involved with the problem we were designing for. I’ll try 1PP design and utilising the results of it where possible in my professional work. I'm sure it'll at least allow me to communicate better with the target audience, after having embodied the problem.
   
 **6- After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?**
 
