@@ -11,17 +11,18 @@ repo_url: 'https://github.com/cagsunacemoglu/MDEF'
 nav:
   - Home: index.md
   - About: about/me.md
+  - Design Studio: 
+      - Roles of Prototyping: term1/03-Roles of Prototyping.md
+      - Communication Strategy: term1/Communication.md
+  - Seminars :
+      - Term 1:
+          - Bootcamp: term1/01-Bootcamp.md
+          - AoWS: term1/02-Atlas of Weak Signals.md  
+          - Bio & Agri: term1/04-Bio Agri Zero.md
+          - Living with Your Own Ideas: term1/05-Living with Your Own Ideas.md
+          - Tech Beyond the Myth: term1/06-Tech Beyond the Myth.md
   - Master project:
       - Initial ideas: project/project.md
-  - Reflections :
-      - Term 1:
-          - 1.Bootcamp: term1/01-Bootcamp.md
-          - 2.AoWS: term1/02-Atlas of Weak Signals.md
-          - 3.Design Studio - Roles of Prototyping: term1/03-Roles of Prototyping.md
-          - 4.Bio & Agri: term1/04-Bio Agri Zero.md
-          - 5.Living with Your Own Ideas: term1/05-Living with Your Own Ideas.md
-          - 6.Tech Beyond the Myth: term1/06-Tech Beyond the Myth.md
-
       # - Term 2:
       #     - digi: term1/01-Bootcamp.md
       #     - studio: term1/01-Bootcamp.md
