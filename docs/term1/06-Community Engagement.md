@@ -20,6 +20,11 @@ I picked the card about "emergence", which has been one of my biggest recognitio
 All in all, I believe that many subjects of the seminar required a deeper-dive and it was a lot of ground to cover in a single week. I felt the need to explore the systems mapping of our “actants” more rigiorously, and I was expecting to learn more about the nitty-gritty of community engagement: How to start interacting with, immersing into and designing within a community.
 Without these skills, I feel a bit vulnerable and lost as a designer, as if I'd blame myself for doing the wrong thing if I'm designing for & with others but I don't have much of a clue about doing it the right way: "designing within". But maybe these questions are valuable enough as awareness raisers that will allow me to keep exploring, and evolve my practice for better.
 
+## Creative Community Engagement
+
+For my project which is about utilising water as an integrated part of living spaces, I filled in the template as follows. 
+
+![](https://i.imgur.com/1eUYXpL.jpg)
 
 #### APPENDIX - SEMINAR REFERENCES
 
