@@ -1,4 +1,6 @@
-# Community Engagement
+#Community Engagement
+
+## Reflections about the seminar
 
 The community engagement seminar was focused on a range of topics including community engagement and design, with a particular emphasis on using design principles and practices to facilitate positive change in systems and communities. The sessions covered topics such as the role of the designer, approaches to systems transformation, tools for facilitation, and the use of our bodies as epistemological instruments. 
 
@@ -22,9 +24,11 @@ Without these skills, I feel a bit vulnerable and lost as a designer, as if I'd 
 
 ## Creative Community Engagement
 
-For my project which is about utilising water as an integrated part of living spaces, I filled in the template as follows. 
+My project is about utilising water as an integrated material in our living spaces and making the domestic water systems more open-source and environmentally friendly. Here´s the creative community template for one of the potential communities I can engage with. 
 
-![](https://i.imgur.com/1eUYXpL.jpg)
+![](https://i.imgur.com/ciTKeYx.jpg)
+
+
 
 #### APPENDIX - SEMINAR REFERENCES
 
