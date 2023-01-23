@@ -1,24 +1,33 @@
-# Reframing by reflecting on my project
+# Designing for the Next 1B Seconds
 
-Towards the end of the first term, I updated the focus area of my project and my design space as "Create technological interventions that reform and improve the relationship between humans and water starting from domestic spaces 
-through optimistic narratives that focus on celebrating the presence of water and the joy it brings to human life." This is the way I plan to intervene in the system in order to bring about change to local and global water issues and challenge the current tech paradigm in this field."
+## Reflection
 
-![](https://i.imgur.com/5Egtd4X.jpg)
+The seminar began with the question, "What do we want to remember in a billion seconds from now?" And it continued with other philosophical questions aimed at directing our critical thinking to a variety of topics: what is everything, inter citizenship, interspecies solidarity, current economic systems, the state of the digital...
 
-As initial interventions of my project, I had the experience of designing and testing a grey water unit, which is a system for reusing greywater (wastewater from sinks, showers, etc.) for non-potable purposes such as flushing toilets. I shared the prototype with classmates and visiting participants during the Design Dialogues session, then brought the unit home and tested it with family members for more than two weeks (still ongoing).
+It was a great playground to ask ourselves where we are as humanity, where we are going, and we had the opportunity to think critically about what we see in our world today. An important realization for me was that as much as we can criticize everything we see in the world, we need to remember that those who can be held responsible are people just like us. The people we blame for all wrongs we see in the world are also us: they are a different version of ourselves, realized in a different context. I think it's important to challenge the "us versus them" type of thinking if we really want to make a difference in the world. It's easy to forget, but we should see our differences as opportunities.
 
-![](https://i.imgur.com/vfVgdtM.jpg)
+Speaking of processes: I also came across the theory of process philosophy in this seminar. Quoting A.N.Whitehead, "It is the view that actuality consists not made up of individual objects with attributes, but rather of interwoven processes."
+e.g. an "atom" does not exist as an isolated substance with essential and accidental properties, but is rather an abstraction denoting a temporal process consisting of myriad elements which are constantly in flux, these elements also constituting other processes.
 
-We found that the water tank prototype had several shortcomings, such as a sluggish valve and the it was leaking too much for indoor use. Despite these issues, the community was receptive to the idea of saving water, and the I was able to make adjustments to continue using the system, such as switching to a smaller water tank that wasn't leaking, that made it more usable. 
+Simply put, the idea that life is not composed of materials and atoms, but of processes. The river cannot be said to be a thing, because it is a process that is not the same at two different times. And this is true of everything. As much as they appear to be rigid, material things... everything is subject to change. This sticked with me right away.
 
-On the other hand, I was involved in an ongoing project with the Augmented Creativity collective, which aims to explore the possibility of extending human perspectives to more-than-human ontologies and develop empathy with the Other. The collective designed an exploratory experience that combined embodied movement, physical changes to participants' bodies, and a defined space to bring participants into a context where collaborative practices can integrate the more-than-human. The experience used ambient light, meditation music, a defined distribution of meaningful areas in the space, motion-detecting cameras, and video projections. After the session, we received written texts and audio recordings from all participants describing their experiences. We had some personal and collective reflections on the experience, such as acknowledging our own subjective humanity, some confusing elements of the experience such as assigning corners of the room to different meanings and facing technical issues with motion capture. Overall, the intervention led to interesting discussions and created an important dichotomy for me with the very technical, tangible personal intervention I was carrying out.
 
-![](https://i.imgur.com/2tJFi3l.jpg)
+Other interesting notes that I took for myself:
+* The positionally statement: The best way I saw someone present themselves so far. Grateful for having come across this resource: [Positionality, Intersectionality, and Privilege](https://www.mitemmc.org/monthly-tips/positionality-intersectionality-and-privilege-in-health-professions-education-research/)
+* Importance of defining the “We”: We talk about we without defining who that is and everyone assumes something. We for the seminar was the people in this room.
+* Critical hope as a proposal. I also liked Caglar’s challenge that hope is so important for him that it needs to remain clean and pure of criticism. For me the term was also confusing in the sense that I thought “critical hope” was meant to refer to hope that is critically important.
+* Andres identifying himself as a slow researcher: Reminded me that researching doesn’t have to mean leaving everything behind and  just focusing your life in your research topic.
+* How boring and problematic is predicting the future when there’s invention, imagination and participation in the futures.
+* The plurality of futures: That there’s not going to be a single future. There’s not even a single present. 
+* I loved the idea that time != money but time = life! Such a simple and beautiful way to put it.
+* Enivronmental emergency is not a design problem  you can solve. You cannot solve emergencies. That humans can’t save the world but we can care for it.
+* The warning Andres made to be careful about the narratives thrown at us: Like “the cloud”, “moving fast & breaking things”,  “social media” …
+* And “moving slow and repairing things” as an alternative.
+* Individualism vs. Individuality: That individualism is problematic as it takes the human as the centre of the world.
+* Words changing worlds, and the power of storytelling as another good, timely reminder to myself.
+* And as a last word, let us not forget that transformations are already happening everywhere, but they are mostly not visible, the media is not talking about it, but there are many, many people working on it.
 
-As for next steps, I would like to explore the graywater unit further  by building a more practical and integrated graywater system for home use. I am thinking about building water bricks that can be assembled into a water unit of any size, and can be 3D printed using recycled plastic.
 
-Our collective continues its journey exploring different ways to create experiences that allow for the embodiment of the Other, thereby creating a space of expanded creativity.
 
-In addition to these 2 avenues, I am thinking about working on an intervention possibly on drinking water in order to expose and create recognition around how wonderful it is that we have access to drinking water in our homes, considering how we constantly dispose of contaminated water.
-
-![](https://i.imgur.com/ql6w4uc.jpg)
+References:
+* https://www.mitemmc.org/monthly-tips/positionality-intersectionality-and-privilege-in-health-professions-education-research/
