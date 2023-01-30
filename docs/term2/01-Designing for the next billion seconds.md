@@ -20,14 +20,55 @@ Other interesting notes that I took for myself:
 * How boring and problematic is predicting the future when there’s invention, imagination and participation in the futures.
 * The plurality of futures: That there’s not going to be a single future. There’s not even a single present. 
 * I loved the idea that time != money but time = life! Such a simple and beautiful way to put it.
-* Enivronmental emergency is not a design problem  you can solve. You cannot solve emergencies. That humans can’t save the world but we can care for it.
+* Environmental emergency is not a design problem  you can solve. You cannot solve emergencies. That humans can’t save the world but we can care for it.
 * The warning Andres made to be careful about the narratives thrown at us: Like “the cloud”, “moving fast & breaking things”,  “social media” …
 * And “moving slow and repairing things” as an alternative.
 * Individualism vs. Individuality: That individualism is problematic as it takes the human as the centre of the world.
 * Words changing worlds, and the power of storytelling as another good, timely reminder to myself.
 * And as a last word, let us not forget that transformations are already happening everywhere, but they are mostly not visible, the media is not talking about it, but there are many, many people working on it.
 
+## Assignments
 
 
-References:
+###  1
+Read Everything manifesto questions and imagine a day in your life one billion seconds from now. Create 10 slides (one for each section) You’ll have 10 seconds per slide, to present your day.
+REMEMBER: IMAGINATION > PREDICTION
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTm5S86fAd_Gvdq3YFSc09VODj1yCnR1WJmbm1wLAMV6orAzYone0J9Zs3PvC8AoraJx_O9teVWUCqF/pub?embedded=true"></iframe>
+
+###  2
+“Write a first draft of a letter sent by your future self in the 2050’s“
+
+![](https://i.imgur.com/FAeg7FT.jpg)
+
+I do not want to reproduce the whole transcript of the letter, but here is an excerpt from it:
+
+*"...All these developments have made it crystal clear that what matters in life is who you connect with: The relationships you nourish, who is around you, how much you love, and how much you are loved in return.*
+
+*So if you are receiving this letter, my message to you is to work on your ability to love. For those who did not know how to do that, life became extremely boring after the whole era of technological progress obsession was over.*
+
+*When humanity realized that we had everything we needed, for those who lost the love in themselves, things suddenly became meaningless. Only those who loved were seemingly considering themselves alive..."*
+
+### Group Assignment
+
+Opening your (intercitizen) time capsules. Stories that encourage critical hope, intergenerational solidarity and interspecies love, in worlds governed by Honourable Harvest principles, that adopted regrowth.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPYWQq8MEabiRsK4JLS5j5BPq6-3yAYwgAL0EQRa1DNiR5bEl34k_Qvg_IiW-YRw/embed?start=false&loop=false&delayms=5000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+We are in the museum of boundaries, a billion seconds from 2022. This is what I wrote for my slide: 
+
+*A billion seconds ago, people used to throw their trash each day into the bins on the streets. It's incredible to think that each household would throw away multiple bags of trash every - single - day.*
+
+*Today in our society waste is a thing of the past. The problem got escalated when the municipality recognised that they've been steadily growing the size of the trash bins and now each of them has become the size of a small van!*
+
+*They decided to utilise degrowth principles and behaviour science to change the trajectory of this. They first informed citizens that trash that remains outside of the bins would not be collected.*
+
+*Then year after year, they reduced the size of the trash bins. This created a friction at first, neighbours were competing to dispose of trash first when there's still place in the bins. But people started reducing thier waste innately to not get crossed with their neighbours. Sometimes they would talk to each other to moderate the days.*
+
+*Slowly and slowly, trashbins got smaller and smaller. In the meantime other waste collection initiatives grew because waste became valuable. All organic waste, plastic, paper and glass was being collected and reused within the local boundaries by some production facilities. Only few materials were treated specially, but that's rather a rare case.*
+
+
+#### References:
 * https://www.mitemmc.org/monthly-tips/positionality-intersectionality-and-privilege-in-health-professions-education-research/
