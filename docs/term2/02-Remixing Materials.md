@@ -121,3 +121,22 @@ Glass is a beatiful material but it's limited by its rather complicated physical
 
 - Modeling with glass
 - 3d printing with glass
+
+
+<br>
+<br>
+<br>
+
+
+## End of Seminar Project
+
+In our final project, we explored a bio alternative to silicon. 
+All of us in the team were working with water in our interventions and one thing you recognise when you work with water tools and systems is that there's a lot of plastic and silicon involved.
+
+We wanted to address this problem and seeked a bio alternative solution: Talking to our instructors, we learnt that shellac - a material we did not know of- could be an alternative and we started looking for the material, which we found in a chemistry shop, and we started experimenting with it. 
+
+We made a number of explorations and put the material to use in different contexts. Some of them were quite successful, such as gluing high surface area materials together for a leak free connection or closing small cracks on plastic surface with shellac was actually stopping the water flow if applied properly.
+
+We elaborated on the properties, strengths, weaknessses of the material and the recipes in our presentation below.
+
+<iframe src="https://drive.google.com/file/d/1PAxpGih8zc98l2OxOsWZ50Uj5PQOiu23/preview" width="640" height="480" allow="autoplay"></iframe
