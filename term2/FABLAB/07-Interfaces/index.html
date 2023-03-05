@@ -11,7 +11,7 @@
         <meta name="description" content="Master in Design for Emergent Futures">
       
       
-        <link rel="canonical" href="https://cagsunacemoglu.github.io/MDEF/term2/FABLAB/05-Networking/">
+        <link rel="canonical" href="https://cagsunacemoglu.github.io/MDEF/term2/FABLAB/07-Interfaces/">
       
       
         <meta name="author" content="Cagsun Acemoglu">
@@ -21,7 +21,7 @@
     
     
       
-        <title>Networking - Cagsun Acemoglu - MDEF & Fab Lab Barcelona</title>
+        <title>Inputs & Outputs - Cagsun Acemoglu - MDEF & Fab Lab Barcelona</title>
       
     
     
@@ -68,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#networking" class="md-skip">
+        <a href="#inputs-outputs" class="md-skip">
           Skip to content
         </a>
       
@@ -96,7 +96,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Networking
+              Inputs & Outputs
             
           </span>
         </div>
@@ -218,12 +218,10 @@
       
       
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
     
     <label class="md-nav__link" for="nav-3">
       Seminars
@@ -401,12 +399,10 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-2" type="checkbox" id="nav-3-2" checked>
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-2" type="checkbox" id="nav-3-2">
     
     <label class="md-nav__link" for="nav-3-2">
       Term 2
@@ -486,12 +482,10 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-2-4" type="checkbox" id="nav-3-2-4" checked>
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-2-4" type="checkbox" id="nav-3-2-4">
     
     <label class="md-nav__link" for="nav-3-2-4">
       Digital Prototyping
@@ -569,20 +563,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-    <a href="./" title="Networking" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../05-Networking/" title="Networking" class="md-nav__link">
       Networking
     </a>
-    
   </li>
 
         
@@ -666,7 +651,7 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/cagsunacemoglu/MDEF/edit/master/docs/term2/FABLAB/05-Networking.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/cagsunacemoglu/MDEF/edit/master/docs/term2/FABLAB/07-Interfaces.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
@@ -674,22 +659,20 @@
                   
                 
                 
-                <h1 id="networking">Networking<a class="headerlink" href="#networking" title="Permanent link">&para;</a></h1>
-<p>In the class about networking, we started with discussing what a network is, and elaborated on the philosophical aspects of what are the basic functions of networks, and the design decisions that went behind the networks we know today.</p>
-<p>For me, it was interesting to see how networks are architectured by incapsulating the same information on multiple layers, so that the information can arrive at the destination without being harmed.</p>
-<p><img alt="" src="https://i.imgur.com/J3Eq7Z1.png" /></p>
-<p>The analogy that I came up with that it finally made sense for me is shipping an item to the other end of the world, for instance, to a place like Alaska. You need to layer your item in multiple layers so that it survives the whole journey:
-- a bubbled air bag as first layer to protect it in the local van that makes the first transfer, 
-- a cardboard box to make it’s safe for the airplane,
-- a plastic bag, so that it doesn’t get wet across the ocean in a ship,
-- a heat isolated bag, so that it doesn’t get too cold on the way to Alaska from the port…</p>
-<p>I guess information travelling over networkds is like that, it moves across multiple continents, between many vehicles that carry information, and it needs to be compatible with the systems that carry it, similar to shipping company standards, they need to be in certain sizes and packages, and they stick labels on them so that anyone on the road can identify the item.</p>
-<p>In the last part of the class, we worked on practically establishing a network. I found it interesting that there needs to be a broker - a moderator in the system even when we wanted to send messages from one to another. Similarly, it was also surprising for me to learn that the information we share with companies go to their headquarters and get processed/routed there to wherever it’s stored. I always assumed that the network would be decentralised, and each node of the system would be able to handle the information so that the central processing doesn’t get overloaded. I’d want to explore that a bit more.</p>
-<p><img alt="" src="https://i.imgur.com/42CO0Jz.jpg" /></p>
-<p>The highlight of building such a network for me was being able to build a local area network over WLAN where machines can talk to each other, send commands and requests, and collaborate without having to connect over the Internet. I think this opens up a lot of possibilities to create a kind of intelligence in the local space through talking devices that do not need any human intervention.</p>
-<p><img alt="" src="https://i.imgur.com/ZxAlYER.jpg" /></p>
-<p>We followed the following code with Dhriti to establish connection to the local network and send messages to the class, and receive their messages in return. </p>
-<p><a href="https://hackmd.io/CAj0Y8O3QGKjmH2b4r3Tag?view">https://hackmd.io/CAj0Y8O3QGKjmH2b4r3Tag?view</a></p>
+                <h1 id="inputs-outputs">Inputs &amp; Outputs<a class="headerlink" href="#inputs-outputs" title="Permanent link">&para;</a></h1>
+<p>This class was quite an exhaustive coverage of types of sensors, how they work and their potential applications. Having worked with sensors before, I enjoyed going through such a complete list and discussing them in detail.</p>
+<p>I also reflected on the fact that, when I studied electronics engineering, we didn’t have a class on sensors specifically, and I recognised how much it was actually needed. This is an important topic that has its own intricacies and shouldn’t be taken for granted otherwise working with sensors can become very cumbersome without the base technical knowledge.</p>
+<p>The exercise for the class was to: “Use a sensor and an actuator to communicate”, and the guidance was to use a Light Dependant Resistor (LDR) to detect the light level and pair our LDR with a LED which we can then control to transfer information to the LDR optically, in order to build something like an optic Telegraph.</p>
+<p>I utilised some great resources to follow the exercise. 
+Following <a href="https://learn.adafruit.com/photocells/using-a-photocell">Using a Photocell | Photocells | Adafruit Learning System</a>, and using the same circuitry and code I was able to get my LDR to sense dim vs. bright light.</p>
+<p><img alt="" src="https://i.imgur.com/vVHTxsQ.gif" /></p>
+<p>Then following  <a href="https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/">Arduino - Turn LED ON and OFF With Button - The Robotics Back-End (roboticsbackend.com)</a>  I was able to turn Led on and off using another Arduino board I had available. </p>
+<p><img alt="" src="https://i.imgur.com/llUTbyn.gif" /></p>
+<p>This way I was able to run both devices at the same time without integrating their circuits &amp; code.</p>
+<p><img alt="" src="https://i.imgur.com/IVyqQYd.gif" /></p>
+<p>I tried to use an optic cable that came with the modem to transfer the information between the boards, but it didn’t work. The light from the end of the cable wasn’t visible to eye, so it was no surprise that LDR didn’t catch it. </p>
+<p>Then I went forward as the exercise suggested, and tried to recognise dots and dashes following this tutorial, but I couldn’t make it work as I haven’t been able to figure out how to detect the length of the light pulse yet.
+<a href="http://persion.info/projects/arduino-morse-decoder/">Arduino Morse Decoder</a> </p>
                 
                   
                     
@@ -717,41 +700,6 @@
       
         
 <footer class="md-footer">
-  
-    <div class="md-footer-nav">
-      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
-        
-          <a href="../../MicroChallenge%20I/" title="Micro Challenge I" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
-            </div>
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
-                <span class="md-footer-nav__direction">
-                  Previous
-                </span>
-                Micro Challenge I
-              </div>
-            </div>
-          </a>
-        
-        
-          <a href="../../../project/project/" title="Initial ideas" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
-                Initial ideas
-              </div>
-            </div>
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-            </div>
-          </a>
-        
-      </nav>
-    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
