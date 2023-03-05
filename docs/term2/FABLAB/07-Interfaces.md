@@ -1,4 +1,4 @@
-# Interfaces: Machine interactions
+Interfaces: Machine interactions
 
 We spent the class going through various interesting exercises of lighting up a LED.
 I think it was as a great flow of exercises, because LEDs are fun to play with, they’re simple to work with but visually appealing and allow for creativity. The step by step approach was also really nice to build up as we go, and at the end we ended up creating something quite cool, a central server lighting up the LEDs of the whole class through inputs from anyone in the class. 
@@ -9,10 +9,11 @@ The highlights for me were
 - The ease of creating a connection with a server with a few lines of code, and communicating over wifi through an Arduino device is mind blowing. I hope I get the chance to work with this capability in my design challenges & interventions. 
 
 Here’re some references to materials we used in the class:
-- Course material: https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view 
-- Node Red: https://nodered.org/
-- MQTT Broker: https://mosquitto.org/
-- :::spoiler My code to diversify the responses based on incoming messages
+* Course material: https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view 
+* Node Red: https://nodered.org/
+* MQTT Broker: https://mosquitto.org/
+* My code to diversify the responses based on incoming messages
+
 ```
 #include "Arduino.h"
 #define LED_PIN 14
@@ -87,7 +88,6 @@ void loop() {
 }
 ```
 
-:::
 
 Here is the final video of the collective lighting up of multiple LEDs via the server, via an online interface that can be controlled by anyone in the class. Oscar had shown us a video of a dance show with coordinated and synchronized LED masks at the beginning of the course. We achieved the core functionality of this show (synchronous control of multiple devices over a local network) within 3-4 hours, which is a mind-blowing result that shows the accessibility level of today's technology.
 
