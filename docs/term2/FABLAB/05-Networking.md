@@ -1,25 +1,29 @@
-# Inputs & Outputs
+# Networking
 
-This class was quite an exhaustive coverage of types of sensors, how they work and their potential applications. Having worked with sensors before, I enjoyed going through such a complete list and discussing them in detail.
+In the class about networking, we started with discussing what a network is, and elaborated on the philosophical aspects of what are the basic functions of networks, and the design decisions that went behind the networks we know today.
 
-I also reflected on the fact that, when I studied electronics engineering, we didn’t have a class on sensors specifically, and I recognised how much it was actually needed. This is an important topic that has its own intricacies and shouldn’t be taken for granted otherwise working with sensors can become very cumbersome without the base technical knowledge.
+For me, it was interesting to see how networks are architectured by incapsulating the same information on multiple layers, so that the information can arrive at the destination without being harmed.
 
-The exercise for the class was to: “Use a sensor and an actuator to communicate”, and the guidance was to use a Light Dependant Resistor (LDR) to detect the light level and pair our LDR with a LED which we can then control to transfer information to the LDR optically, in order to build something like an optic Telegraph.
+![](https://i.imgur.com/J3Eq7Z1.png)
 
-I utilised some great resources to follow the exercise. 
-Following [Using a Photocell | Photocells | Adafruit Learning System](https://learn.adafruit.com/photocells/using-a-photocell), and using the same circuitry and code I was able to get my LDR to sense dim vs. bright light.
 
-![](https://i.imgur.com/vVHTxsQ.gif)
+The analogy that I came up with that it finally made sense for me is shipping an item to the other end of the world, for instance, to a place like Alaska. You need to layer your item in multiple layers so that it survives the whole journey:
+- a bubbled air bag as first layer to protect it in the local van that makes the first transfer, 
+- a cardboard box to make it’s safe for the airplane,
+- a plastic bag, so that it doesn’t get wet across the ocean in a ship,
+- a heat isolated bag, so that it doesn’t get too cold on the way to Alaska from the port…
 
-Then following  [Arduino - Turn LED ON and OFF With Button - The Robotics Back-End (roboticsbackend.com)](https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/)  I was able to turn Led on and off using another Arduino board I had available. 
+I guess information travelling over networkds is like that, it moves across multiple continents, between many vehicles that carry information, and it needs to be compatible with the systems that carry it, similar to shipping company standards, they need to be in certain sizes and packages, and they stick labels on them so that anyone on the road can identify the item.
 
-![](https://i.imgur.com/llUTbyn.gif)
+In the last part of the class, we worked on practically establishing a network. I found it interesting that there needs to be a broker - a moderator in the system even when we wanted to send messages from one to another. Similarly, it was also surprising for me to learn that the information we share with companies go to their headquarters and get processed/routed there to wherever it’s stored. I always assumed that the network would be decentralised, and each node of the system would be able to handle the information so that the central processing doesn’t get overloaded. I’d want to explore that a bit more.
 
-This way I was able to run both devices at the same time without integrating their circuits & code.
+![](https://i.imgur.com/42CO0Jz.jpg)
 
-![](https://i.imgur.com/IVyqQYd.gif)
 
-I tried to use an optic cable that came with the modem to transfer the information between the boards, but it didn’t work. The light from the end of the cable wasn’t visible to eye, so it was no surprise that LDR didn’t catch it. 
+The highlight of building such a network for me was being able to build a local area network over WLAN where machines can talk to each other, send commands and requests, and collaborate without having to connect over the Internet. I think this opens up a lot of possibilities to create a kind of intelligence in the local space through talking devices that do not need any human intervention.
 
-Then I went forward as the exercise suggested, and tried to recognise dots and dashes following this tutorial, but I couldn’t make it work as I haven’t been able to figure out how to detect the length of the light pulse yet.
-[Arduino Morse Decoder](http://persion.info/projects/arduino-morse-decoder/) 
+![](https://i.imgur.com/ZxAlYER.jpg)
+
+We followed the following code with Dhriti to establish connection to the local network and send messages to the class, and receive their messages in return. 
+
+https://hackmd.io/CAj0Y8O3QGKjmH2b4r3Tag?view
