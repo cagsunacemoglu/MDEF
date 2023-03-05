@@ -1,25 +1,96 @@
-# Inputs & Outputs
+# Interfaces: Machine interactions
 
-This class was quite an exhaustive coverage of types of sensors, how they work and their potential applications. Having worked with sensors before, I enjoyed going through such a complete list and discussing them in detail.
+We spent the class going through various interesting exercises of lighting up a LED.
+I think it was as a great flow of exercises, because LEDs are fun to play with, they’re simple to work with but visually appealing and allow for creativity. The step by step approach was also really nice to build up as we go, and at the end we ended up creating something quite cool, a central server lighting up the LEDs of the whole class through inputs from anyone in the class. 
 
-I also reflected on the fact that, when I studied electronics engineering, we didn’t have a class on sensors specifically, and I recognised how much it was actually needed. This is an important topic that has its own intricacies and shouldn’t be taken for granted otherwise working with sensors can become very cumbersome without the base technical knowledge.
+The highlights for me were
+- Discovering about the [jLED animation library](https://https://github.com/jandelgado/jled#usage): I wouldn’t guess there’d be a library for seemingly simple functions like LED lighting, but now I’d think about checking out existing libraries before creating something new
+- Learning about node-red and how it works in high-level. It was also good to  learn about  in conjunction with MCCT, although I’d need some time to work with these tools, to understand exactly how they work and what their capabilities are. 
+- The ease of creating a connection with a server with a few lines of code, and communicating over wifi through an Arduino device is mind blowing. I hope I get the chance to work with this capability in my design challenges & interventions. 
 
-The exercise for the class was to: “Use a sensor and an actuator to communicate”, and the guidance was to use a Light Dependant Resistor (LDR) to detect the light level and pair our LDR with a LED which we can then control to transfer information to the LDR optically, in order to build something like an optic Telegraph.
+Here’re some references to materials we used in the class:
+- Course material: https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view 
+- Node Red: https://nodered.org/
+- MQTT Broker: https://mosquitto.org/
+- :::spoiler My code to diversify the responses based on incoming messages
+```
+#include "Arduino.h"
+#define LED_PIN 14
 
-I utilised some great resources to follow the exercise. 
-Following [Using a Photocell | Photocells | Adafruit Learning System](https://learn.adafruit.com/photocells/using-a-photocell), and using the same circuitry and code I was able to get my LDR to sense dim vs. bright light.
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_PIN, OUTPUT);
+  Serial.begin(9600);
+}
 
-![](https://i.imgur.com/vVHTxsQ.gif)
+void blink () {
+  digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);                       // wait for a second
+  digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);                       // wait for a second
+}
+void blinkFast () {
+  int i=0;
+  while(i<20){
+    digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+    delay(100);                       // wait for a second
+    digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
+    delay(100);
+    i++;    
+  }                       // wait for a second
+}
+void blinkX (int reps) {
+  int i=0;
+  while(i<reps){
+    digitalWrite(LED_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+    delay(100);                       // wait for a second
+    digitalWrite(LED_PIN, LOW);    // turn the LED off by making the voltage LOW
+    delay(100);
+    i++;
+  }                       // wait for a second
+}
 
-Then following  [Arduino - Turn LED ON and OFF With Button - The Robotics Back-End (roboticsbackend.com)](https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/)  I was able to turn Led on and off using another Arduino board I had available. 
+// the loop function runs over and over again forever
+void loop() {
 
-![](https://i.imgur.com/llUTbyn.gif)
+  if (Serial.available()) {
+    String newMsg = Serial.readString();
+    newMsg.trim();
 
-This way I was able to run both devices at the same time without integrating their circuits & code.
+    Serial.print("Got new message!: ");
+    Serial.println(newMsg);
 
-![](https://i.imgur.com/IVyqQYd.gif)
+    // blink if we tell it to!
+    if (newMsg.equals("a")){
+      blink();
+    }
+    if (newMsg.equals("c")){
+      blink();
+      blink();
+      blink();
+    }
+    if (newMsg.equals("b")){
+      blink();
+      blink();
+    }
+    if (newMsg.equals("fast")){
+      blinkFast();
+    }
+    if (newMsg.equals("b5")){
+      blinkX(5);
+    }
+    if (newMsg.equals("b50")){
+      blinkX(50);
+    }
+  }
+}
+```
 
-I tried to use an optic cable that came with the modem to transfer the information between the boards, but it didn’t work. The light from the end of the cable wasn’t visible to eye, so it was no surprise that LDR didn’t catch it. 
+:::
 
-Then I went forward as the exercise suggested, and tried to recognise dots and dashes following this tutorial, but I couldn’t make it work as I haven’t been able to figure out how to detect the length of the light pulse yet.
-[Arduino Morse Decoder](http://persion.info/projects/arduino-morse-decoder/) 
+Here is the final video of the collective lighting up of multiple LEDs via the server, via an online interface that can be controlled by anyone in the class. Oscar had shown us a video of a dance show with coordinated and synchronized LED masks at the beginning of the course. We achieved the core functionality of this show (synchronous control of multiple devices over a local network) within 3-4 hours, which is a mind-blowing result that shows the accessibility level of today's technology.
+
+![](https://i.imgur.com/cHTQ513.gif)
+
+

@@ -7,7 +7,7 @@ After deciding on these, it was possible to break the project down into smaller 
 
 ![](https://i.imgur.com/i4chBPB.jpg)
 
-> `All code and other documentation is in the project repo at the end of the page.`
+> All code and other documentation is in the [project repo: Water explorations for Microchallenges](https://github.com/ramiroarga/WATER)
 
 ## Using Parrot as an EC Sensor
 
@@ -52,3 +52,7 @@ Overall, I think the project quickly turned into an engineering challenge, maybe
 Scripts and other documentation is in the project repo below.
 <br>
 [GitHub - ramiroarga/WATER: Water explorations for Microchallenges](https://github.com/ramiroarga/WATER)
+
+<br>
+<iframe src="https://drive.google.com/file/d/1Fp9xs9uww6-3s2qgXyLp4Zbww1bohF1Z/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1XS34ct1BZ5s59P3zogbAa8twbBRdevej/preview" width="640" height="480" allow="autoplay"></iframe>
