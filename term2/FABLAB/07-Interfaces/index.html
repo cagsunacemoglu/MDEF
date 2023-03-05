@@ -21,7 +21,7 @@
     
     
       
-        <title>Networking - Cagsun Acemoglu - MDEF & Fab Lab Barcelona</title>
+        <title>Interfaces - Machine Interactions - Cagsun Acemoglu - MDEF & Fab Lab Barcelona</title>
       
     
     
@@ -67,11 +67,6 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
-        
-        <a href="#interfaces-machine-interactions" class="md-skip">
-          Skip to content
-        </a>
-      
     </div>
     <div data-md-component="announce">
       
@@ -96,7 +91,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Networking
+              Interfaces - Machine Interactions
             
           </span>
         </div>
@@ -588,11 +583,9 @@
     
     <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
-      
     
-    
-    <a href="./" title="Networking" class="md-nav__link md-nav__link--active">
-      Networking
+    <a href="./" title="Interfaces - Machine Interactions" class="md-nav__link md-nav__link--active">
+      Interfaces - Machine Interactions
     </a>
     
   </li>
@@ -658,21 +651,6 @@
               </div>
             
             
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-    
-  
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -686,18 +664,19 @@
                   
                 
                 
-                <h1 id="interfaces-machine-interactions">Interfaces: Machine interactions<a class="headerlink" href="#interfaces-machine-interactions" title="Permanent link">&para;</a></h1>
-<p>We spent the class going through various interesting exercises of lighting up a LED.
+                  <h1>Interfaces - Machine Interactions</h1>
+                
+                <p>We spent the class going through various interesting exercises of lighting up a LED.
 I think it was as a great flow of exercises, because LEDs are fun to play with, they’re simple to work with but visually appealing and allow for creativity. The step by step approach was also really nice to build up as we go, and at the end we ended up creating something quite cool, a central server lighting up the LEDs of the whole class through inputs from anyone in the class. </p>
 <p>The highlights for me were
 - Discovering about the <a href="https://https://github.com/jandelgado/jled#usage">jLED animation library</a>: I wouldn’t guess there’d be a library for seemingly simple functions like LED lighting, but now I’d think about checking out existing libraries before creating something new
 - Learning about node-red and how it works in high-level. It was also good to  learn about  in conjunction with MCCT, although I’d need some time to work with these tools, to understand exactly how they work and what their capabilities are. 
 - The ease of creating a connection with a server with a few lines of code, and communicating over wifi through an Arduino device is mind blowing. I hope I get the chance to work with this capability in my design challenges &amp; interventions. </p>
 <p>Here’re some references to materials we used in the class:
-- Course material: <a href="https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view">https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view</a> 
-- Node Red: <a href="https://nodered.org/">https://nodered.org/</a>
-- MQTT Broker: <a href="https://mosquitto.org/">https://mosquitto.org/</a>
-- :::spoiler My code to diversify the responses based on incoming messages
+* Course material: <a href="https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view">https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view</a> 
+* Node Red: <a href="https://nodered.org/">https://nodered.org/</a>
+* MQTT Broker: <a href="https://mosquitto.org/">https://mosquitto.org/</a>
+* My code to diversify the responses based on incoming messages</p>
 <div class="highlight"><pre><span></span><code>#include &quot;Arduino.h&quot;
 #define LED_PIN 14
 
@@ -769,8 +748,7 @@ void loop() {
     }
   }
 }
-</code></pre></div></p>
-<p>:::</p>
+</code></pre></div>
 <p>Here is the final video of the collective lighting up of multiple LEDs via the server, via an online interface that can be controlled by anyone in the class. Oscar had shown us a video of a dance show with coordinated and synchronized LED masks at the beginning of the course. We achieved the core functionality of this show (synchronous control of multiple devices over a local network) within 3-4 hours, which is a mind-blowing result that shows the accessibility level of today&rsquo;s technology.</p>
 <p><img alt="" src="https://i.imgur.com/cHTQ513.gif" /></p>
                 
