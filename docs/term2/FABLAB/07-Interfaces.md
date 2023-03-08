@@ -9,10 +9,11 @@ The highlights for me were
 - The ease of creating a connection with a server with a few lines of code, and communicating over wifi through an Arduino device is mind blowing. I hope I get the chance to work with this capability in my design challenges & interventions. 
 
 Here’re some references to materials we used in the class:
-* Course material: https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view 
-* Node Red: https://nodered.org/
-* MQTT Broker: https://mosquitto.org/
-* My code to diversify the responses based on incoming messages
+- Course material: https://hackmd.io/95FEOJXeSXe9hDu289X-bw?view 
+- Node Red: https://nodered.org/
+- MQTT Broker: https://mosquitto.org/
+- My code to diversify the responses based on incoming messages
+
 
 ```
 #include "Arduino.h"
