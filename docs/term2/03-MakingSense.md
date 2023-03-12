@@ -25,14 +25,14 @@ This made me reflect on the fact that many habits I might have acquired as a des
 For the class assignment, I welcome the challenge to try generating the article using ChatGPT. Here’s the prompt I used: 
 
  Write a blog entry of between 1500-2500 words and design a vignette to illustrate the (some) following questions.
-	1 How design can reconfigure systems of extraction?
-	2 Which worlds can we design with the power of today’s tools?
-	3 How can we design the transition towards these worlds?
+1. How design can reconfigure systems of extraction?
+2. Which worlds can we design with the power of today’s tools?
+3. How can we design the transition towards these worlds?
 
 Use the following resources for inspiration and reference:
-- Design as participation article from Kevin Slavin (https://jods.mitpress.mit.edu/pub/design-as-participation/release/1)  
-- A History of the World in Seven Cheap Things by Raj Patel and Jason W. Moore
-- Steps to an ecology of mind by Gregory Bateson
+* Design as participation article from Kevin Slavin (https://jods.mitpress.mit.edu/pub/design-as-participation/release/1)  
+* A History of the World in Seven Cheap Things by Raj Patel and Jason W. Moore
+* Steps to an ecology of mind by Gregory Bateson
 
 ## ChatGPT´s Response
 
