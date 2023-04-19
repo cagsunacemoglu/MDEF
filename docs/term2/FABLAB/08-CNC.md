@@ -4,7 +4,7 @@ In the CNC class, we received a lot of detailed information about this technolog
 
 ## Task
 
-We are lucky to have such experts in the Fablab, and for the task I worked with Santi who was detail oriented and guided me through every step of the process. The design I chose came out good enough to build a functioning furniture for my son that we’re now using in our kitchen every day. 
+We are lucky to have such experts in the Fablab, and for the task I worked with Josep who was detail oriented and guided me through every step of the process. The design I chose came out good enough to build a functioning furniture for my son that we’re now using in our kitchen every day. 
 
 
 <table>
