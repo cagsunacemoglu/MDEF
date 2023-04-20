@@ -25,3 +25,6 @@ I decided to stay home. I read a book, delved into my thoughts, took a nap on a 
 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/814031708?h=c95cf9721a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Rest Of Them - El Hierro"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+https://fablabbcn.org/blog/lab-life/an-exploratory-trip-to-el-hierro-island
