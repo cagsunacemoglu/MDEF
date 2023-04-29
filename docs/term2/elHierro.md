@@ -23,6 +23,9 @@ I had planned the day to see around Tenerife, and discover the island. After I a
 
 I decided to stay home. I read a book, delved into my thoughts, took a nap on a hammock, and skipped dinner. I went to my tent and meditated on the ground thinking about all that I experienced over the last week. I wondered if I was ever going to find the same feelings and the same sense of comfort, rhythm, connection and friendship I have seized on El Hierro with the land and its people. Feeling grateful, I fell asleep.
 
+## Rest of Them - Short Film
+
+Accepting the invitation of the island to change to a different rhythm,  I found a way to rest myself by searching for others at rest - even when they’re in motion.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/814031708?h=c95cf9721a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Rest Of Them - El Hierro"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
