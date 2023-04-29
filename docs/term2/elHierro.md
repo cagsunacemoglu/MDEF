@@ -25,7 +25,7 @@ I decided to stay home. I read a book, delved into my thoughts, took a nap on a 
 
 ## Rest of Them - Short Film
 
-Accepting the invitation of the island to change to a different rhythm,  I found a way to rest myself by searching for others at rest - even when they’re in motion.
+Accepting the invitation of the island to change to a different rhythm,  I found a way to rest myself by searching for others at rest - even when they’re in subtle motion.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/814031708?h=c95cf9721a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Rest Of Them - El Hierro"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
