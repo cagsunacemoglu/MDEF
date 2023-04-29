@@ -45,10 +45,10 @@ nav:
           - Research Trip: term2/elHierro.md
        Term 3:
           - Design Studio: 
-            - Next Intervention: term3/
+            - Next Intervention: term3/DistDesign.md
           - Distributed Design: term3/DistDesign.md
           - Digital Prototyping:
-            - Robots: 
+            - Robots: term3/DistDesign.md
             
   - Master project:
       - Initial ideas: project/project.md
