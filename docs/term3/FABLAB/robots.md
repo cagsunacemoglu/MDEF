@@ -1,9 +1,11 @@
-# Design Studio - Role in Alternative Present
+# Robots
 
+Today Josep walked us through the fundamental knowledge to understand how robots work and we had with some hands-on exercises to control the robot at IAAC facilities, which was great. 
 
-![](../images/altern.png)
+It seems like there’s a wide range of intricate details to be aware of to be able to design for production with robots. From safety measures to varying tooltips (that sometimes need to be modelled) as well as the simulation knowledge required to create and run models in Grasshopper seems like an expertise one needs to invest significant time on.
 
+![](../images/fab/robot2.jpg)
 
-## My role in this alternative present:
+I enjoyed the balance between theory and practice in the class was great and I enjoyed controlling the robot and understanding its parameters. However I don’t see how I can use this knowledge in my project yet, thus I didn’t try to register everything that I heard in class.
 
-My role as a designer is to design interventions to inspires this change of perception. In this context, to design means: Coming up with intervention ideas, involving others, empowering them, facilitating the process to bring these ideas to the world by situating them in the right places and exposing them to people in a meaningful way.
+![](../images/fab/robot.jpeg)
