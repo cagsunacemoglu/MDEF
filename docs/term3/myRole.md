@@ -1,9 +1,7 @@
 # Design Studio - Role in Alternative Present
 
 
-_
-
-![](https://hackmd.io/_uploads/SkO3FcH42.png)
+![](https://hackmd.io/_uploads/Bk5N0sSNh.png)
 
 
 ## My role in this alternative present:
