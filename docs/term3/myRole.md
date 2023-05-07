@@ -1,6 +1,6 @@
 # Design Studio 
 
-![](https://hackmd.io/_uploads/B1w1S5SVh.png)
+![](https://hackmd.io/_uploads/SkO3FcH42.png)
 
 
 ## My role in this alternative present:
