@@ -50,7 +50,8 @@ nav:
           - Digital Prototyping:
             - Robots: term3/FABLAB/robots.md
             - Blender: term3/FABLAB/blender.md
-            - Live Coding: term3/FABLAB/liveCoding.md
+            - Live coding: term3/FABLAB/liveCoding.md
+            - Blender as an interface: term3/FABLAB/blenderInter.md
           - Design Ethics: term3/ethics.md
   - Master project:
       - Initial ideas: project/project.md
