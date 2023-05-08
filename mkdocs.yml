@@ -48,8 +48,9 @@ nav:
             - Role in Alternative Presents: term3/myRole.md
           - Distributed Design: term3/DistDesign.md
           - Digital Prototyping:
-            - Robots: term3/DistDesign.md
-            - Blender: term3/blender.md
+            - Robots: term3/FABLAB/robots.md
+            - Blender: term3/FABLAB/blender.md
+            - Live Coding: term3/FABLAB/liveCoding.md
           - Design Ethics: term3/ethics.md
   - Master project:
       - Initial ideas: project/project.md
