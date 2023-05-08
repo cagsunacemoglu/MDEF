@@ -13,4 +13,4 @@ It was great to learn the basics about it, however, it would have been good to t
 
 I’m glad there’s a truly open-source tool that exists in this crowded corner of the software market, which is usually quite expensive. Thanks to Blender I imagine a lot of people with less resources have access to this creative space.  I’d like to invest more time to learn about Blender and make it the tool for my 3d modelling practice.
 
-![](../images/fab/blender.jpeg)
+![](../../images/fab/blender.jpeg)
